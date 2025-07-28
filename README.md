@@ -1,5 +1,5 @@
 💫 About Me:
-Final year B.E (ECE) student at SDMCET Dharwad
+Final year B.E (ISE) student at SDMCET Dharwad
 
 
 ## 🌐 Socials:
