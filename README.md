@@ -71,15 +71,15 @@ Final Year **B.E. (Information Science & Engineering)** student at **SDMCET, Dha
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
----
+
 
 ### ✨ Developer Mindset
 
@@ -87,4 +87,14 @@ Final Year **B.E. (Information Science & Engineering)** student at **SDMCET, Dha
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0)
+## 💡 What Drives Me
+
+I enjoy building scalable systems, solving real-world problems,  
+and continuously refining both code quality and system design thinking.
+
+Currently focused on:
+- Advanced Frontend Architecture
+- Backend API Design
+- System Design Fundamentals
+- AI Integration in Applications
+
